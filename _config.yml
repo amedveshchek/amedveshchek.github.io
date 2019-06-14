@@ -1,6 +1,8 @@
 # main text of home
 name: Alex Medveshchek
-bio: Backend Developer addicted to Natural Language Processing
+bio: >
+  Backend Developer addicted to </br>
+  Natural Language Processing
 
 # twitter summary info
 description: Alex Medveshchek - Backend Developer addicted to Natural Language Processing
