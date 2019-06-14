@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: assets/cv_alexey_medveshchek.eng.pdf
+resume: false
+resume-external: false
+resume-url: # assets/cv_alexey_medveshchek.eng.pdf
 
 url: https://amedveshchek.github.io
 # your url: http://USERNAME.github.io
