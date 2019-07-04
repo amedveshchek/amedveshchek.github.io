@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Hi there! I'm Alex Medveshchek, an experienced backend developer from Russia with strong background in Natural Language Processing and Natural Language Understanding. Don't hesitate to ask me about anything related to software engineering and text analysis. 
+Hi there! I'm Alex Medveshchek, a backend developer with 10+ years of experience and strong background in Natural Language Processing. Don't hesitate to ask me about anything related to software engineering and text analysis. 
 
 ### Skills
 
